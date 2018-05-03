@@ -8,6 +8,7 @@
 </head>
 <body>
 <%="test2.jsp" %>
-<%="teest2.jsp" %>
+<%="testtt2.jsp" %>
+<%="testt2.jsp" %>
 </body>
 </html>
